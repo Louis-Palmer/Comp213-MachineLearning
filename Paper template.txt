@@ -1,0 +1,41 @@
+Abstract 
+
+Introduction 
+
+Background 
+
+What algorithms 
+
+How they work 
+
+Method 
+
+What are you investigating and how 
+
+(Needs to be repeatable) 
+
+ 
+
+Results 
+
+Tables and graphs 
+
+Analysis 
+
+Suitability of AI technique 
+
+Algorithm performance with reasoning 
+
+Impact of results on the topic (present and future) 
+
+Conclusion 
+
+LSEPS considerations of the topic 
+
+How work compares to others (references) 
+
+Future work 
+
+How it can be utilised in the future (impacts) 
+
+Link to repo
